@@ -152,7 +152,3 @@ Das System nutzt kapazitive Deionisation (CDI), Photovoltaik, Elektrolyse und CO
 
 **OceanCDI** verbindet Meer, Sonne und Technik zu einem modularen, weltumspannenden Energie- und Wasserprojekt.  
 Es bietet skalierbare Lösungen für Strom-, Wasserstoff- und Trinkwasserversorgung – mit messbarem Impact für Mensch & Umwelt.
-
-> (Alle bestehenden Kapitel aus unserem bisherigen Projekt wurden integriert und strukturell überführt.)
-
-
