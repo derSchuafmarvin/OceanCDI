@@ -1,4 +1,5 @@
-MIT License
+MIT License (for software components)
+-------------------------------------
 
 Copyright (c) 2025 derSchuafmarvin
 
@@ -19,3 +20,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+CERN Open Hardware License v2-S (for hardware & physical platform designs)
+---------------------------------------------------------------------------
+
+This work is licensed under the CERN OHL v2-S.
+
+You may redistribute and modify this documentation and hardware under the
+terms of the CERN OHL v2-S (Strongly Reciprocal). A copy of the license is
+available at:
+
+https://ohwr.org/project/cernohl/wikis/home
+
+You must include the complete license text and keep design sources available
+under the same terms.
+
+If you modify this hardware or documentation, you must:
+- retain this notice
+- document your changes clearly
+- release your changes under CERN OHL v2-S
+
+(C) 2025 derSchuafmarvin – All design files marked as Open Hardware
+
+---
+
+This LICENSE file applies to:
+- All **software and code** under the MIT License
+- All **hardware designs, platform layouts and engineering blueprints** under CERN OHL v2-S
